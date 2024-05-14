@@ -1,2 +1,3 @@
 # UMSA-1
-academia java/react. clase git/github
+# Academia Java/React. 
+# Clase git/github
