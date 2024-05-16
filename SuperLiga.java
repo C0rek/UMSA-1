@@ -27,7 +27,7 @@ public class SuperLiga {
 		int puntosLiga = (ganados*puntosPorGanado + empatados*puntosPorEmpatado + perdidos*puntosPorPerdido);
 		int porcentajeVictorias = (ganados%cantDePartidos);
 		System.out.println("ESTADISTICAS " + equipo.toUpperCase() + " :");
-		System.out.println("* Puntos de liga:"+ puntosLiga + " puntos en la competicion");
+		System.out.println("* Puntos de liga: "+ puntosLiga + " puntos en la competicion");
 		System.out.println("* Porcentaje de Victorias: " + porcentajeVictorias + "% ganados");
 		
 		scanner.close();
